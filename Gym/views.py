@@ -65,17 +65,17 @@ def new_registration(request):
             user.password=c_password
             if address=="township":
                 user.address_id=1
-            elif address=="johr town":
+            elif address=="Powai":
                 user.address_id=2
-            elif address=="model town":
+            elif address=="Koregaon Park":
                 user.address_id=3
-            elif address=="faisal town":
+            elif address=="Bandra West":
                 user.address_id=4
-            elif address=="green town":
+            elif address=="Hinjewadi":
                 user.address_id=5
-            elif address=="iqbal town":
+            elif address=="Viman Nagar":
                 user.address_id=6
-            elif address=="garden town":
+            elif address=="Juhu":
                 user.address_id=7
             if gender=="male":
                 user.gender_id=1
