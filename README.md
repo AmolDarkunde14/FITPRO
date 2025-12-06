@@ -26,7 +26,7 @@ Database: SQLite3
 Frontend: Django Templates (HTML, CSS, JavaScript)
 
 Folder Structure -
-
+```
 FITPRO/
 │
 ├── FITNESSPRO/              # Django project folder
@@ -37,7 +37,7 @@ FITPRO/
 ├── db.sqlite3               # Database file
 ├── manage.py
 └── requirements.txt
-
+```
 -- Inspired by real-world gym operations
 
 Screenshots
