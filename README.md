@@ -39,3 +39,28 @@ FITPRO/
 └── requirements.txt
 
 -- Inspired by real-world gym operations
+
+Screenshots
+
+Homepage-
+<img width="1919" height="1065" alt="image" src="https://github.com/user-attachments/assets/82388bae-777f-4d0b-9490-4e28972fc15c" />
+The homepage shows featured exercises and clean navigation for gym users.
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/f2ba54b9-3b91-4217-8d5f-3f0c1ae0b9ed" />
+
+ User Panel-
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/875b9171-d7a3-47f2-a21e-900f446dafd9" />
+Users can view their assigned workout for the day, check their diet plan, and manage their profile settings.
+
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/2d872a2c-60ca-4142-98fd-bcc90dce6716" />
+
+<img width="905" height="959" alt="image" src="https://github.com/user-attachments/assets/5759ec90-1dbc-4baf-8492-2edebb1fb95d" />
+
+Admin Panel-
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/75d5abe2-1f75-435e-b36d-d76efd251828" />
+Gym admins can add users, take attendance, and manage member data securely from the dashboard.
+
+
+
+
+
