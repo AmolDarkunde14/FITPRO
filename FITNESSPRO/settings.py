@@ -27,8 +27,14 @@ SECRET_KEY = 'django-insecure-186xzg1_rr0i5uez_c*inzu49ewxd23*-gx$n$p5e35mp%b=tn
 # Set to False when deploying to production
 DEBUG = True
 
-# Add your PythonAnywhere domain to allowed hosts
+# Add your domain to allowed hosts
 ALLOWED_HOSTS = ['fitpro-pboh.onrender.com', 'localhost', '127.0.0.1']
+
+# CSRF trusted origins - only one domain
+CSRF_TRUSTED_ORIGINS = os.environ.get(
+    "CSRF_TRUSTED_ORIGINS",
+    "https://fitpro-pboh.onrender.com"
+).split(",")
 
 
 # Application definition
