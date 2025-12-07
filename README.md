@@ -60,6 +60,8 @@ Admin Panel-
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/75d5abe2-1f75-435e-b36d-d76efd251828" />
 Gym admins can add users, take attendance, and manage member data securely from the dashboard.
 
+Live: https://fitpro-pboh.onrender.com
+
 
 
 
